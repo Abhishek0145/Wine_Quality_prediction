@@ -33,18 +33,25 @@ To utilize this model for wine quality prediction, follow these steps:
      - Run the following command to clone the repository:
 
      ```
-     git clone [repository_url]
+     git clone https://github.com/Abhishek0145/Wine_Quality_prediction/blob/main/Wine%20Prediction%20Model%20using%20Linear%20Regression.ipynb
      ```
 
 2. **Install Dependencies**:
 
    Install the required dependencies by running:
 
+   ```
+     pip install -r requirements.txt
+     ```
 
-3. **Run the Model**:
+
+4. **Run the Model**:
 
 Execute the Jupyter Notebook or Python script to train and test the model:
 
+ ```
+     python wine_quality_prediction.py
+     ```
 
 4. **Get Predictions**:
 
