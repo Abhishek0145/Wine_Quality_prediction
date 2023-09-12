@@ -49,9 +49,9 @@ To utilize this model for wine quality prediction, follow these steps:
 
 Execute the Jupyter Notebook or Python script to train and test the model:
 
- ```
-     python wine_quality_prediction.py
-     ```
+   ```
+  python wine_quality_prediction.py
+   ```
 
 4. **Get Predictions**:
 
