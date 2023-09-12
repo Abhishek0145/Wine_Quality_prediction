@@ -6,7 +6,7 @@ Welcome to the Wine Quality Prediction ML Model repository! This project is desi
 
 ## Dataset
 
-The core of this project is the "Wine Quality" dataset, which can be accessed [here][https://github.com/Abhishek0145/Wine_Quality_prediction/tree/main]. This dataset contains a wealth of information about wine samples, including attributes like acidity, alcohol content, and more, along with quality ratings.
+The core of this project is the "Wine Quality" dataset, which can be accessed [here](https://github.com/Abhishek0145/Wine_Quality_prediction/tree/main). This dataset contains a wealth of information about wine samples, including attributes like acidity, alcohol content, and more, along with quality ratings.
 
 ## Model
 
